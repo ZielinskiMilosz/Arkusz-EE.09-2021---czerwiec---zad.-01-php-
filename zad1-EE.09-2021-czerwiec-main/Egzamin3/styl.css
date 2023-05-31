@@ -1,0 +1,56 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.baner
+{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+    height: 20px;
+}
+li
+{
+    list-style-type: circle;
+}
+.glowny
+{
+    background-color: #E1E2E1;
+    height: 400px;
+    padding: 20px;
+    overflow: scroll;
+}
+.stopka
+{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    height: 20px;
+    width: 50%;
+    float: left;
+}
+.blokopis
+{
+    float: left;
+}
+.obraz
+{
+    size: 100px;
+    margin: 20px;
+    border-radius: 100%;
+    float: left;
+}
+.bloklinia
+{
+    width: 100%;
+}
+h2
+{
+    text-align: center;
+    background-color: #00897B;
+}
+a
+{
+    color: white;
+}
